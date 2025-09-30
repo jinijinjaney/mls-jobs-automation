@@ -60,10 +60,10 @@ This Google Apps Script automates the creation and management of job folders and
 **Folder Structure Example:**
 
 MLS Jobs/2025/
- ├── 1001 Alice Johnson/
- │    └── Job Notes.txt
- ├── 1002 Bright Co./
- │    └── Job Notes.txt
+├── 1001 Alice Johnson/
+│ └── Job Notes.txt
+├── 1002 Bright Co./
+│ └── Job Notes.txt
 
 **Author:**
 Liezyl Jane Claros  
